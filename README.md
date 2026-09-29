@@ -1,37 +1,28 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   WAVING HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,25:3d0a52,50:6a0572,75:c62a88,100:ff6b35&height=275&section=header&text=Arif%20Khan&fontSize=80&fontColor=FFD700&animation=fadeIn&fontAlignY=44&desc=AI%20Engineer%20%E2%80%94%20Agentic%20AI%20%7C%20LangGraph%20%7C%20Deep%20Learning&descAlignY=66&descSize=20&descColor=FFB347&stroke=c62a88&strokeWidth=2" width="100%"/>
 
 <br/>
 
-<!-- ANIMATED TYPING — JetBrains Mono, 5 rotating lines -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=760&lines=🤖+Autonomous+AI+Agents+%7C+LangGraph+%7C+LangChain;🧠+Medical+AI+%7C+Brain+Tumor+Segmentation+%28NeuroAI%29;📊+Multi-Agent+RAG+%7C+Hybrid+Search+%7C+GraphRAG;🎓+BSCS+Graduate+%7C+University+of+Loralai%2C+Pakistan+🇵🇰;🚀+Open+to+Remote+AI+%26+Agentic+AI+Engineer+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=760&lines=Autonomous+AI+Agents+%7C+LangGraph+%7C+LangChain;Medical+AI+%7C+Brain+Tumor+Segmentation+%28NeuroAI%29;Multi-Agent+RAG+%7C+Hybrid+Search+%7C+GraphRAG;BSCS+Graduate+%7C+University+of+Loralai%2C+Pakistan;Open+to+Remote+AI+%26+Agentic+AI+Engineer+Roles)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arif%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-khan-71a711376)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-arif.cs.bs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arif.cs.bs@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Arifkhan171-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arifkhan171)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Arifkhan171&style=for-the-badge&color=FF6B35&label=Profile+Views)
 
 <br/>
 
-<!-- QUICK STATUS MICRO-BADGES -->
-![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Remote_AI_Roles-2ea44f?style=flat-square)
-&nbsp;&nbsp;
-![Focus](https://img.shields.io/badge/⚡_Focus-Agentic_AI_Systems-c62a88?style=flat-square)
-&nbsp;&nbsp;
-![Location](https://img.shields.io/badge/📍_Based_In-Pakistan_🇵🇰-6a0572?style=flat-square)
-&nbsp;&nbsp;
-![Exp](https://img.shields.io/badge/💼_Experience-3%2B_Years_AI-ff6b35?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Remote_AI_Roles-2ea44f?style=flat-square)
+&nbsp;
+![Focus](https://img.shields.io/badge/Focus-Agentic_AI_Systems-c62a88?style=flat-square)
+&nbsp;
+![Location](https://img.shields.io/badge/Based_In-Pakistan-6a0572?style=flat-square)
+&nbsp;
+![Experience](https://img.shields.io/badge/Experience-3%2B_Years_AI-ff6b35?style=flat-square)
 
 </div>
 
@@ -41,9 +32,9 @@
 
 ## 👨‍💻 About Me
 
-> *✦ "I don't just build models — I build complete, production-ready AI systems, end-to-end." ✦*
+> *"I don't just build models — I build complete, production-ready AI systems, end-to-end."*
 
-I am an AI Engineer based in 🇵🇰 **Pakistan** with a **BSCS degree** from **University of Loralai** and **3+ years** of experience. My work spans the full spectrum of modern AI — from deep learning & medical imaging to autonomous multi-agent architectures and production-grade RAG pipelines.
+I am an AI Engineer based in 🇵🇰 **Pakistan** with a **BSCS degree** from **University of Loralai** and **3+ years** of experience building AI systems from scratch to production deployment.
 
 <br/>
 
@@ -52,20 +43,20 @@ I am an AI Engineer based in 🇵🇰 **Pakistan** with a **BSCS degree** from *
 <td valign="top" width="50%">
 
 | | |
-|:---:|---|
+|:---:|:---|
 | 🔭 | Building **University AI Chatbot** (5-Agent RAG) |
-| 🌱 | Deep-diving into **GraphRAG, ColBERT, Advanced LangGraph** |
+| 🌱 | Learning **GraphRAG, ColBERT, Advanced LangGraph** |
 | 🎯 | Targeting **Remote AI / Agentic AI Engineer** roles |
 | 💬 | Ask me about **Agentic AI, LangGraph, Medical DL** |
-| ⚡ | Fun fact: **Zero Python → Production AI** in 4 years |
-| 📧 | Reach me at **arif.cs.bs@gmail.com** |
+| ⚡ | Fun fact: **Zero Python to Production AI** in 4 years |
+| 📧 | **arif.cs.bs@gmail.com** |
 
 </td>
 <td valign="top" width="50%">
 
 <div align="center">
 
-**🎯 Skill Proficiency**
+**Skill Proficiency**
 
 <br/>
 
@@ -75,7 +66,7 @@ I am an AI Engineer based in 🇵🇰 **Pakistan** with a **BSCS degree** from *
 
 ![RAG Systems](https://img.shields.io/badge/RAG_Systems-Advanced_80%25-5b0064?style=for-the-badge&logo=openai&logoColor=white)
 
-![Backend & DB](https://img.shields.io/badge/Backend_%26_DB-Proficient_70%25-ff6b35?style=for-the-badge&logo=postgresql&logoColor=white)
+![Backend and DB](https://img.shields.io/badge/Backend_%26_DB-Proficient_70%25-ff6b35?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![MLOps](https://img.shields.io/badge/MLOps-Growing_55%25-d4481c?style=for-the-badge&logo=githubactions&logoColor=white)
 
@@ -87,25 +78,9 @@ I am an AI Engineer based in 🇵🇰 **Pakistan** with a **BSCS degree** from *
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Arifkhan171&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arifkhan171&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a0533&title_color=FFD700&icon_color=FF6B35&text_color=FFB347" height="178" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifkhan171&layout=donut&theme=radical&hide_border=true&bg_color=1a0533&title_color=FFD700&text_color=FFB347&lang_count=6" height="178" alt="Top Languages"/>
-
-<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arifkhan171&theme=radical&hide_border=true&background=1a0533&ring=FF6B35&fire=c62a88&currStreakLabel=FFD700&sideLabels=FFB347&currStreakNum=FFD700&sideNums=FFD700&dates=FFB347)](https://github.com/Arifkhan171)
 
@@ -113,78 +88,39 @@ I am an AI Engineer based in 🇵🇰 **Pakistan** with a **BSCS degree** from *
 
 ---
 
-## 📈 Contribution Activity
+## 🎯 Skills Distribution
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arifkhan171&bg_color=1a0533&color=FFD700&line=c62a88&point=ff6b35&area=true&hide_border=true&custom_title=Arif%20Khan%27s%20Contribution%20Graph%20🚀)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+pie showData title Core Expertise Breakdown
+    "Agentic AI — LangGraph" : 35
+    "Deep Learning — Medical AI" : 28
+    "RAG and Retrieval Systems" : 22
+    "Backend and Databases" : 10
+    "MLOps and DevOps" : 5
+```
 
 ---
 
-## 🐍 Contribution Snake
+## 🗺️ Tech Stack Architecture
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Arifkhan171/Arifkhan171/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Arifkhan171/Arifkhan171/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/Arifkhan171/Arifkhan171/output/github-contribution-grid-snake-dark.svg"
-    width="100%"/>
-</picture>
-
-<details>
-<summary>⚙️ <b>One-time setup — click to enable this snake animation</b></summary>
-
-<br/>
-
-**Step 1:** Create file `.github/workflows/snake.yml` in your repo with:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+graph LR
+    A[Agentic AI] --> B[LangGraph]
+    A --> C[LangChain]
+    A --> D[ChromaDB]
+    A --> E[LangSmith]
+    F[Deep Learning] --> G[TensorFlow]
+    F --> H[Keras]
+    F --> I[OpenCV]
+    J[RAG Systems] --> K[GraphRAG]
+    J --> L[ColBERT]
+    J --> M[BM25 Hybrid]
+    N[Backend] --> O[PostgreSQL]
+    N --> P[SQLAlchemy]
+    N --> Q[Streamlit]
 ```
-
-**Step 2:** Go to **Settings → Actions → General → Workflow permissions** → enable **Read and write permissions**
-
-**Step 3:** Go to **Actions tab → Generate Snake Animation → Run workflow** (run once manually to generate the SVG)
-
-> ✅ After running, the snake will appear here automatically and update every 12 hours!
-
-</details>
-
-</div>
 
 ---
 
@@ -203,7 +139,7 @@ A clinical-grade AI system for automated MRI-based brain tumor segmentation and 
 
 | Component | Details |
 |---|---|
-| 📥 **Scan Ingestion** | Automated MRI loading, preprocessing & normalization |
+| 📥 **Scan Ingestion** | Automated MRI loading, preprocessing and normalization |
 | 🔬 **Multi-Class Detection** | Glioma, meningioma, pituitary, no-tumor classification |
 | 🎯 **Boundary Segmentation** | Pixel-level tumor boundaries via CNN encoder-decoder |
 | 📋 **Clinical Reports** | Automated per-patient report generation |
@@ -235,11 +171,11 @@ A fully autonomous GPA system with Streamlit Human-in-the-Loop dashboard — zer
 |---|---|
 | 📂 **Data Source** | Reads mark sheets directly from Google Drive |
 | ✅ **Validation Engine** | 22 edge-case rules enforced via Pydantic v2 |
-| 🧮 **GPA Engine** | HEC Pakistan formula — GPA & CGPA with letter grades |
-| 🗄️ **Data Layer** | SQLAlchemy ORM → PostgreSQL / SQLite with audit trails |
+| 🧮 **GPA Engine** | HEC Pakistan formula — GPA and CGPA with letter grades |
+| 🗄️ **Data Layer** | SQLAlchemy ORM to PostgreSQL / SQLite with audit trails |
 | 📜 **Transcripts** | Auto-generates formatted student transcripts |
 | 🖥️ **Dashboard** | Streamlit HITL review with approval workflow |
-| 👥 **Team** | Led 3-engineer team across full GitHub branch + PR workflow |
+| 👥 **Team** | Led 3-engineer team with full GitHub branch and PR workflow |
 
 </details>
 
@@ -272,7 +208,7 @@ A production-grade university chatbot on a 5-specialist-agent LangGraph architec
 | 🔄 **CRAG** | Corrective RAG for hallucination reduction |
 | 🗂️ **Parent-Child** | Hierarchical chunk retrieval for context coherence |
 | 🌐 **Multilingual** | Planned: English, Urdu, Pashto |
-| 📊 **Observability** | Full tracing & evaluation via LangSmith |
+| 📊 **Observability** | Full tracing and evaluation via LangSmith |
 
 </details>
 
@@ -291,13 +227,11 @@ A production-grade university chatbot on a 5-specialist-agent LangGraph architec
 
 <div align="center">
 
-### ✨ Skill Icons
-
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn,postgres,sqlite,git,github,vscode,linux,docker&theme=dark&perline=12)](https://skillicons.dev)
 
 <br/>
 
-**🤖 Agentic AI**
+**Agentic AI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
@@ -306,7 +240,7 @@ A production-grade university chatbot on a 5-specialist-agent LangGraph architec
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=for-the-badge&logo=python&logoColor=white)
 
-**🧠 Deep Learning & ML**
+**Deep Learning and ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -315,7 +249,7 @@ A production-grade university chatbot on a 5-specialist-agent LangGraph architec
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**🗄️ Backend & Databases**
+**Backend and Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
@@ -324,7 +258,7 @@ A production-grade university chatbot on a 5-specialist-agent LangGraph architec
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Google Drive API](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
 
-**🔧 Tools**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -341,25 +275,15 @@ A production-grade university chatbot on a 5-specialist-agent LangGraph architec
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                     🚀  ARIF'S  AI  JOURNEY  🚀                    ║
+║                     ARIF'S  AI  JOURNEY                            ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  2022  ✦  Python from scratch • First algorithms • Pure curiosity  ║
-║  2023  ✦  Feature Engineering • ML Algorithms • Real projects       ║
-║  2024  ✦  Deep Learning • CNNs • Medical AI (NeuroAI FYP)  🧠      ║
-║  2025  ✦  Agentic AI • LangGraph • Multi-Agent RAG Systems  🤖     ║
-║  2026  ✦  BSCS Graduate • Production AI Systems • Open Remote  🚀  ║
+║  2022  ✦  Python from scratch  •  First algorithms  •  Curiosity  ║
+║  2023  ✦  Feature Engineering  •  ML Algorithms  •  Real projects  ║
+║  2024  ✦  Deep Learning  •  CNNs  •  Medical AI  NeuroAI FYP       ║
+║  2025  ✦  Agentic AI  •  LangGraph  •  Multi-Agent RAG Systems     ║
+║  2026  ✦  BSCS Graduate  •  Production AI Systems  •  Remote Work  ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
----
-
-## 💬 Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -371,9 +295,9 @@ A production-grade university chatbot on a 5-specialist-agent LangGraph architec
 
 <br/>
 
-### 🤝 Let's Build Something Together
+### Let's Build Something Together
 
-**Seeking remote AI Engineer & Agentic AI Engineer roles**
+**Seeking remote AI Engineer and Agentic AI Engineer roles**
 
 <br/>
 
@@ -383,7 +307,7 @@ A production-grade university chatbot on a 5-specialist-agent LangGraph architec
 
 <br/>
 
-*⭐ If my work inspires you — a star on any repo means the world to me! ⭐*
+*If my work inspires you — a star on any repo means the world to me!*
 
 <br/>
 
