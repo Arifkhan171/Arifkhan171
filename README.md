@@ -129,7 +129,13 @@ graph LR
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0533,100:6a0572&height=6" width="100%"/>
 
 ### 🧠 NeuroAI — Brain Tumor Segmentation & Clinical Analysis System
-> *Final Year Project — Lead Architect*
+> Final Year Project — Lead Architect
+
+
+
+![YouTube Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+(https://youtu.be/zeKYup9Rga8)
 
 A clinical-grade AI system for automated MRI-based brain tumor segmentation and clinical report generation.
 
@@ -159,7 +165,13 @@ A clinical-grade AI system for automated MRI-based brain tumor segmentation and 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0533,100:c62a88&height=6" width="100%"/>
 
 ### 📊 Agentic GPA Calculation System
-> *End-to-End LangGraph Pipeline — Tech Lead (3-Engineer Team)*
+>  End-to-End LangGraph Pipeline — Tech Lead (3-Engineer Team)
+
+
+
+![YouTube Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+(https://youtu.be/Z2Cbma3yKYY)*
 
 A fully autonomous GPA system with Streamlit Human-in-the-Loop dashboard — zero manual calculation.
 
@@ -191,7 +203,13 @@ A fully autonomous GPA system with Streamlit Human-in-the-Loop dashboard — zer
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0533,100:ff6b35&height=6" width="100%"/>
 
 ### 🎓 University AI Chatbot — 5-Agent RAG System
-> *Production System — In Active Development*
+> Production System — In Active Development
+
+
+
+![YouTube Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+(https://youtu.be/YpSCygFuMA8)
 
 A production-grade university chatbot on a 5-specialist-agent LangGraph architecture with advanced retrieval.
 
